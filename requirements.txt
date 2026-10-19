@@ -1,0 +1,12 @@
+# Gymnasium: fornisce l'ambiente RL per definire lo stato, le azioni e il reset/step.
+gymnasium>=0.29,<1.1
+# PennyLane: simula i circuiti quantistici e consente l'ottimizzazione differenziabile.
+pennylane>=0.39,<0.43
+# Ray RLlib: fornisce PPO e il training distribuito dell'agente.
+ray[rllib]>=2.40
+# PyTorch: esegue il modello neurale e la discesa del gradiente.
+torch>=2.3
+# NumPy: gestisce vettori, matrici e calcoli numerici usati in tutto il progetto.
+numpy>=1.26
+# Qiskit: simula i circuiti casuali usati per misurare la baseline pre-training.
+qiskit>=1.0

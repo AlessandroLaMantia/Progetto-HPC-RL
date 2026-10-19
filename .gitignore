@@ -1,0 +1,18 @@
+# Cache e file temporanei Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ambienti locali e credenziali
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Cache dei grafici e file del sistema operativo
+matplotlib_cache/
+.DS_Store
+Thumbs.db

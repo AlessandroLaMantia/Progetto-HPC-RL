@@ -1,0 +1,65 @@
+[
+  [
+    "Stato target: Bell",
+    "70.0%",
+    "0.7750",
+    "18.1",
+    "5.94"
+  ],
+  [
+    "Stato target: GHZ",
+    "50.0%",
+    "0.6000",
+    "24.5",
+    "3.85"
+  ],
+  [
+    "Stato target: Random a 2 qubit",
+    "0.0%",
+    "0.2174",
+    "30.0",
+    "-0.8258"
+  ],
+  [
+    "Stato target: Random a 3 qubit",
+    "0.0%",
+    "0.0923",
+    "30.0",
+    "-2.0772"
+  ],
+  [
+    "Bell: successo nell’80% delle run",
+    "80.0%",
+    "0.8970",
+    "—",
+    "226.80"
+  ],
+  [
+    "GHZ: il primo training si blocca",
+    "0.0%",
+    "0.5000",
+    "—",
+    "-30.00"
+  ],
+  [
+    "GHZ: da 0 a 8 run riuscite su 10",
+    "80.0%",
+    "0.8999",
+    "—",
+    "334.21"
+  ],
+  [
+    "Random a 2 qubit: il 50% delle run riesce",
+    "50.0%",
+    "0.8409",
+    "—",
+    "65.25"
+  ],
+  [
+    "Random a 3 qubit: miglioramento senza successo",
+    "0.0%",
+    "0.4288",
+    "—",
+    "-26.14"
+  ]
+]

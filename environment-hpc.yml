@@ -1,0 +1,11 @@
+name: quantum-rl
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11  # Versione compatibile con il progetto e con le dipendenze richieste.
+  - pip
+  - pytorch  # Libreria per il modello neurale e l'ottimizzazione differenziabile.
+  - cpuonly  # Usa solo CPU, adatta ai cluster HPC senza GPU.
+  - pip:
+      - -r requirements.txt  # Installa le dipendenze Python del progetto.
